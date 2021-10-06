@@ -1,5 +1,6 @@
 #include <iostream>
 void main(void)
+    /* Un comentario */
 {
     int ancho;
     int alto;
